@@ -36,7 +36,7 @@ body {
 /* HEADER STYLING */
 
 header {
-    background: url("../img/bg-pattern-intro-desktop.svg"), linear-gradient(to right, var(--very-light-red), var(--light-red));
+    background: url("bg-pattern-intro-desktop.svg"), linear-gradient(to right, var(--very-light-red), var(--light-red));
     background-position: 25% 50%;
     background-repeat: no-repeat;
     background-size: auto;
@@ -410,7 +410,7 @@ header a:hover {
 /* ARTICLE TWO STYLING */
 
 #article-two {
-    background: url("../img/bg-pattern-circles.svg"), linear-gradient(to right, var(--very-dark-gray-blue), var(--very-dark-desaturated-blue));
+    background: url("bg-pattern-circles.svg"), linear-gradient(to right, var(--very-dark-gray-blue), var(--very-dark-desaturated-blue));
     background-repeat: no-repeat;
     background-position: -30% 85%;
     background-size: auto;
